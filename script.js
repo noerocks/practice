@@ -4,3 +4,4 @@ const z = 30;
 
 console.log(x, y, z);
 console.log(x);
+console.log(x + y);
